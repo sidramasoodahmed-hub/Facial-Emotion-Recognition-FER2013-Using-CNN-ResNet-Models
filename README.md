@@ -1,0 +1,2 @@
+# Facial-Emotion-Recognition-FER2013-Using-CNN-ResNet-Models
+This project implements two deep learning models Multiple Custom CNN and a ResNet-based transfer learning model to classify facial expressions from the FER2013 dataset into seven emotion categories. It includes full training code (via notebook), saved models, and a multi-model inference script that compares predictions from both architectures.
